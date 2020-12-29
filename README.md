@@ -1,4 +1,4 @@
-# Boilerplate Code for a Next.js, Typescript, and TailwindCSS 
+# Boilerplate Code for a Next.js, Typescript, and TailwindCSS Project 
 
 ## Local Install
 
