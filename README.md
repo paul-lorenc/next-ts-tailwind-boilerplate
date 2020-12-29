@@ -1,1 +1,1 @@
-zipperfield dot co
+nextjs typescript tailwindcss
